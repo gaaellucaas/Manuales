@@ -3,9 +3,9 @@
 <!-- [click on this link](#my-multi-word-header) -->
 
 
-* [Instalacion NextCloud](NextCloud/InstalacionNextCloud.md)
-* [Programacion NextCloud](NextCloud/ProgramacionNextCloud)
+* [Instalacion NextCloud](Manuales/InstalaciónNextCloud.md)
+* [Programacion NextCloud](Manuales/ProgramacionNextcloud)
 
-* [Instalacion Owncloud](Owncloud/Instalacion.md)
+* [Instalacion Owncloud](Manuales/Instalación.md)
 
-* [Programacion Owncloud](Owncloud/Programacion.md)
+* [Programacion Owncloud](Manuales/Programacion.md)
