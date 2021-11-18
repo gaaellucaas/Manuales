@@ -4,18 +4,18 @@ INSTALACIÓN DE NEXTCLOUD
 
 1. Entrar pàgina de NextCloud
 
-![](/Manuales/NextCloud/Imatges/INSTALACION/Pagina.png)
+![](/Manuales/Fotos/Pagina.png)
 
 
 2. Seleccionas la opción `Get NextCloud`.
 
-![](/Manuales/NextCloud/Imatges/INSTALACION/Opcion.png)
+![](/Manuales/Fotos/Opcion.png)
 
 
 3. Seleccionas la opción ``Server packages``y descargas el archivo.
 
 
-![](/Manuales/NextCloud/Imatges/INSTALACION/Descargar1.png)
+![](/Manuales/Fotos/Descargar1.png)
 
 
 4. Creamos una carpeta llamada ``clouds``.

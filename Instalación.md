@@ -175,4 +175,4 @@ http://172.16.0.79
 
 Si todo esta correcto, y puedes acceder sin problema, te deberia salir en pantalla lo siguiente:
 
-![](/Manuales/Owncloud/IMAGENES/ultimopaso.png)
+![](/Manuales/Fotos/ultimopaso.png)
