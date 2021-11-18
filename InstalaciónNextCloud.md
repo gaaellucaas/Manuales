@@ -4,35 +4,35 @@ INSTALACIÓN DE NEXTCLOUD
 
 1. Entrar pàgina de NextCloud
 
-![](/Manuales/Fotos/Pagina.png)
+![](Fotos/Pagina.png)
 
 
 2. Seleccionas la opción `Get NextCloud`.
 
-![](/Manuales/Fotos/Opcion.png)
+![](Fotos/Opcion.png)
 
 
 3. Seleccionas la opción ``Server packages``y descargas el archivo.
 
 
-![](/Manuales/Fotos/Descargar1.png)
+![](Fotos/Descargar1.png)
 
 
 4. Creamos una carpeta llamada ``clouds``.
 
-![](/Manuales/Fotos/carpetanueva.png)
+![](Fotos/carpetanueva.png)
 
 5. Dentro de la carpeta copiamos el archivo anteriormente descargado.
 
-![](/Manuales/Fotos/copiar.png)
+![](Fotos/copiar.png)
 
 6. En esta misma carpeta encendemos vagrant y la iniciamos.
 
-![](/Manuales/Fotos/vagrantup.png)
+![](Fotos/vagrantup.png)
 
 
 
-![](/Manuales/Fotos/vagrantssh.png)
+![](Fotos/vagrantssh.png)
 
 
 
@@ -102,8 +102,8 @@ chown -R root:www-data .
 ~~~
 20. Nos vamos al navegador y buscamos ``localhost:8080``.
 
-![](/Manuales/Fotos/localhost:8080.png).
+![](Fotos/localhost:8080.png).
 
 21. Para terminar la instalación debemos rellenar los campos vacios con la información correspondiente que hayamos introducido anteriormente.
 
-![](/Manuales/Fotos/ultima.png)
+![](Fotos/ultima.png)
